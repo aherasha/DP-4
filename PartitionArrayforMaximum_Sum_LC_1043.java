@@ -3,6 +3,8 @@ import java.util.Arrays;
 /* Bottom Up DP
 Time Complexity - O(K * N)
 Space complexity - O(N)
+Did this code successfully run on Leetcode :  Yes
+Any problem you faced while coding this :  No
 */
 public class PartitionArrayforMaximum_Sum_LC_1043 {
     public int maxSumAfterPartitioning(int[] arr, int k) {
